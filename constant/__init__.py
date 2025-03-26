@@ -10,4 +10,4 @@ FRAME_RESIZE: int = 320
 
 CONF: float = 0.25
 
-MODEL_PATH = r"runs\detect\train3\weights\best.pt"
+MODEL_PATH = r"runs\detect\train2\weights\best.pt"
